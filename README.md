@@ -1,7 +1,7 @@
 # Portfolio Website
 
 This is my personal portfolio website.
-Built using HTML and CSS.
+Built using HTML , CSS and JavaScript.
 
 ## Features
 - Responsive design
