@@ -1,4 +1,4 @@
-# Portfolio Website
+# Personal Portfolio Website
 
 This is my personal portfolio website.
 Built using HTML , CSS and JavaScript.
